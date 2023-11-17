@@ -2,7 +2,7 @@
 # About
 
 This branch was created via `git subtree split --prefix=proto-lens-protoc --branch=protoc-update-bounds` from
-branch [update-bounds-newer-ghc](/avdv/proto-lens/update-bounds-newer-ghc) to work around this issue on Windows:
+branch [update-bounds-newer-ghc](https://github.com/avdv/proto-lens/tree/update-bounds-newer-ghc) to work around this issue on Windows:
 
 ```
 ERROR: An error occurred during the fetch of repository 'stackage':
